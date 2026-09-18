@@ -1,5 +1,3 @@
-# NiuTrans Open Source
-
 NiuTrans Open Source develops large language model (LLM)-powered translation
 and natural language processing technologies. The organization is maintained
 by the NLP Lab at Northeastern University and NiuTrans Research.
